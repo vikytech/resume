@@ -1,0 +1,384 @@
+{
+	"basics": {
+		"name": "Vikhyath Choradia",
+		"label": "Senior Consultant Developer at ThoughtWorks",
+		"image": "https://www.gravatar.com/avatar/9dee738b5448f55e2be90acc97ab9e61?s=180",
+		"email": "famous.vikhyath@gmail.com",
+		"phone": "+917200494336",
+		"url": "",
+		"summary": "Explored in the banking, retail and health domain spanning across Mobile, Web and Data Platforms.\n I am a full stack Developer with about six years of experience in Agile methodologies. \n Worked in Java, R, Android with some smaller contributions in C, Golang etc. \n Apart from Application development, have also pursued skills in Mobile - apps & DevOps.",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Chennai",
+			"countryCode": "IN",
+			"region": "India"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "vikytech",
+				"url": "https://www.linkedin.com/in/vikytech/"
+			},
+			{
+				"network": "GitHub",
+				"username": "vikytech",
+				"url": "https://www.github.com/vikytech/"
+			}
+		]
+	},	
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "University of Madras, Chennai",
+			"area": "Bachelor",
+			"studyType": "Computer Applications",
+			"startDate": "2012-08-01",
+			"endDate": "2014-04-30",
+			"gpa": "",
+			"courses": []
+		},
+		{
+			"institution": "Government Polytechnic College, Chennai",
+			"area": "Diploma",
+			"studyType": "Computer Engineering",
+			"startDate": "2009-08-01",
+			"endDate": "2012-04-30",
+			"gpa": "",
+			"courses": []
+		}
+	],
+	"awards": [
+		{
+			"awarder": "Software AG",
+			"title": "API Hackthon",
+			"date": "2017-06-16",
+			"summary": "Won the Hackathon by building an application named \"Epicures\", that helps us find amazing restaurants based on its current reviews.\n We can monitor the performance of a restaurant over a period of time based on its reviews.\n We can see how good it is in terms of food, service, ambience, etc in the recent times."
+		}
+	],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Programming languages",
+			"level": "Master",
+			"keywords": [
+				"Java8",
+				"Java11",
+				"R",
+				"Ruby on Rails",
+				"Golang",
+				"Objective C",
+				"Swift"
+			]
+		},
+		{
+			"name": "Frontend",
+			"keywords": [
+				"HTML5",
+				"CSS3 / Styled Components",
+				"Javascript / Typescript",
+				"React / Vue",
+				"Redux"
+			],
+			"level": "Advanced"
+		},
+		{
+			"name": "DevOps",
+			"level": "Intermediate",
+			"keywords": [
+				"Ansible",
+				"Terraform",
+				"AWS",
+				"Docker",
+				"Heroku",
+				"Kubernetes (Basics)"
+			]
+		},
+		{
+			"name": "Database",
+			"level": "Intermediate",
+			"keywords": ["PostgreSQL", "Redis", "Mongo"]
+		},
+		{
+			"name": "Scripting languages",
+			"level": "Advanced",
+			"keywords": ["Shell", "Bash"]
+		},
+		{
+			"name": "Platform",
+			"level": "Master",
+			"keywords": ["Android", "IOS", "Web"]
+		},
+		{
+			"name": "SCM",
+			"level": "Advanced",
+			"keywords": ["Git", "Mercurial"]
+		},
+		{
+			"name": "IDE",
+			"level": "Advanced",
+			"keywords": [
+				"Intellij Idea",
+				"Ruby mine",
+				"Web storm",
+				"R studios",
+				"VS Code",
+				"Sublime"
+			]
+		},
+		{
+			"name": "Build Tools",
+			"level": "Intermediate",
+			"keywords": ["Gradle", "Rake", "Maven", "Ant (Jakarta)"]
+		},
+		{
+			"name": "CI Tools",
+			"level": "Advanced",
+			"keywords": ["Gitlab CI", "Go (TW Studios)", "TeamCity", "Jenkins"]
+		},
+		{
+			"name": "Testing Tools/Frameworks",
+			"level": "Intermediate",
+			"keywords": ["Rspec", "Gatling", "Cucumber", "JUnit", "Jacoco"]
+		},
+		{
+			"name": "Methodologies",
+			"level": "Advanced",
+			"keywords": ["Agile"]
+		},
+		{
+			"name": "Frameworks",
+			"level": "Advanced",
+			"keywords": ["Spring Boot"]
+		},
+		{
+			"name": "Development Styles",
+			"level": "Advanced",
+			"keywords": ["TDD", "BDD"]
+		},
+		{
+			"name": "Big Data",
+			"level": "Beginner",
+			"keywords": ["Spark"]
+		},
+		{
+			"name": "OS Platforms",
+			"level": "Intermediate",
+			"keywords": ["Linux", "MacOS", "Windows"]
+		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Native Speaker"
+		},
+		{
+			"language": "Hindi",
+			"fluency": "Native Speaker"
+		},
+		{
+			"language": "Tamil",
+			"fluency": "Native Speaker"
+		}
+	],
+	"interests": [],
+	"references": [],
+	"work": [
+		{
+			"name": "ThoughtWorks",
+			"position": "Senior Consultant",
+			"startDate": "2019-08-01",
+			"endDate": "",
+			"summary": "",
+			"highlights": [],
+			"url": "https://www.linkedin.com/company/157356"
+		},
+		{
+			"name": "ThoughtWorks",
+			"position": "Consultant",
+			"startDate": "2014-08-31",
+			"endDate": "2019-07-30",
+			"summary": "",
+			"highlights": [],
+			"url": "https://www.linkedin.com/company/157356"
+		},
+		{
+			"name": "ThoughtWorks",
+			"position": "Internship - STEP",
+			"startDate": "2012-08-31",
+			"endDate": "2014-07-31",
+			"summary": "",
+			"highlights": [],
+			"url": "https://www.linkedin.com/company/157356"
+		}
+	],
+	"projects": [
+		{
+			"name": "Client: Second largest general retailer, US",
+			"position": "Client: Second largest general retailer, US",
+			"summary": "**Tech stack:** Swift, Java8",
+			"description": "**Tech stack:** Swift, Java8",
+			"startDate": "2019-11-01",
+			"endDate": "2020-08-30",
+			"highlights": [
+				"Anchored the iOS Stream for this particular delivery",
+				"This project gave me an opportunity to improve on the consulting skills",
+				"This project was a multi vendor setup, so managing the clients with the competing vendor was a good challenge",
+				"Along with FrontEnd mobile native application the BFF was also build and managed by my stream"
+			]
+		},
+		{
+			"name": "Client: Leading consultant Company, UK",
+			"position": "Client: Leading consultant Company, UK",
+			"summary": "**Tech stack:** Nodejs, AWS lambda",
+			"description": "**Tech stack:** Nodejs, AWS lambda",
+			"startDate": "2019-03-01",
+			"endDate": "2019-10-31",
+			"highlights": [
+				"This stream was focused on analyzing the data for their clients in the digital media marketing",
+				"This was the same engagement where I was part of building intelligence for Fortune companies to manage their marketing budget",
+				"This project gave me an exposure to many AWS services like serverless, Fargate, S3 Hosted sites ets.",
+				"Apart from development I was also owner for the deployment and Devops infrastructure of the project",
+				"During the handover phase of the project I led the team to plan the context sharing"
+			]
+		},
+		{
+			"name": "Client: A Leading retail pharmacy chain, Canada",
+			"position": "Client: A Leading retail pharmacy chain, Canada",
+			"summary": "**Tech stack:** Java8, Ember",
+			"description": "**Tech stack:** Java8, Ember",
+			"startDate": "2019-01-01",
+			"endDate": "2019-02-28",
+			"highlights": ["This was the first time I had experienced the Medical domain", "This was a POC build within 2 months", "I was responsible to build a real time sync system between a legacy system and our application", "A was one of the lead team member of the team, where I learnt the different dynamic in managing a team"]
+		},
+		{
+			"name": "Client: Leading technology partner for OTT events, Italy",
+			"position": "Client: Leading technology partner for OTT events, Italy",
+			"summary": "**Tech stack:** React, Kubernetes",
+			"description": "**Tech stack:** React, Kubernetes",
+			"startDate": "2018-10-01",
+			"endDate": "2018-12-30",
+			"highlights": [
+				"I played the lead frontend engineer for the stream",
+				"This was a challenging as the client had to release the application with 2 months of deadline",
+				"Mentored and enabled graduates from college to be able to contribute to the project."
+			]
+		},
+		{
+			"name": "Client: Leading Bank, Thailand",
+			"position": "Client: Leading Bank, Thailand",
+			"summary": "**Tech stack:** Java 8, Android, iOS",
+			"description": "**Tech stack:** Java 8, Android, iOS",
+			"startDate": "2018-05-01",
+			"endDate": "2018-09-30",
+			"highlights": [
+				"I have closely worked with the client team onshore to advised and enabled client team to develop reward redemption application using agile practices and with better code quality.",
+				"I have been focusing in Backend For Frontend (BFF) stream, where the logic for the redemption feature was built by interacting with multiple external vendors."
+			]
+		},
+		{
+			"name": "Client: ThoughtWorks University, India",
+			"position": "Client: ThoughtWorks University, India",
+			"summary": "**TWU Trainer**",
+			"description": "**TWU Trainer**",
+			"startDate": "2018-01-01",
+			"endDate": "2018-03-30",
+			"highlights": [
+				"I played the role of trainer for the graduates who have joined ThoughtWorks from all over the world come one place to kick start their TW journey.",
+				"I have trained the trainees with good practices which are followed by ThoughtWorks.",
+				"I have developed my presentation and public speaking skills during this engagement."
+			]
+		},
+		{
+			"name": "Client: Leading consultant in Health care domain, United States",
+			"position": "Client: Leading consultant in Health care domain, United States",
+			"summary": "**Tech stack:** Java 8, Vue2, AWS and Ansible",
+			"description": "**Tech stack:** Java 8, Vue2, AWS and Ansible",
+			"startDate": "2017-10-01",
+			"endDate": "2017-12-30",
+			"highlights": [
+				"Contributed to the project for building their product within a span of 8 weeks and helped them visualizing their health data on the world map by adding country score for each country."
+			]
+		},
+		{
+			"name": "Client: Leading consultant Company, UK",
+			"position": "Client: Leading consultant Company, UK",
+			"summary": "**Tech stack:** Java 8, React, Ember, R, MongoDB, Redis, PSQL, Ansible, Terraform and AWS",
+			"description": "**Tech stack:** Java 8, React, Ember, R, MongoDB, Redis, PSQL, Ansible, Terraform and AWS",
+			"startDate": "2016-01-01",
+			"endDate": "2017-09-30",
+			"highlights": [
+				"Helped the client with developing an intelligence for Fortune companies to manage their marketing budget.",
+				"This involves implementing complex algorithms and optimization of huge amount of data.",
+				"This product is the flagship of our customer.",
+				"Most of the tech stack was new for the team and I was instrumental in helping the team meet critical deadlines and also with migration efforts from Julia to R.",
+				"This project gave me the taste of (data intensive) product development."
+			]
+		},
+		{
+			"name": "Client: Leading consultant in Health care domain, US",
+			"position": "Client: Leading consultant in Health care domain, US",
+			"summary": "**Tech stack:** HTML, CSS3, jQuery",
+			"description": "**Tech stack:** HTML, CSS3, jQuery",
+			"startDate": "2015-11-01",
+			"endDate": "2015-12-31",
+			"highlights": [
+				"Created an offline web application taking data with was generated by their mobile app which was used to gather product feedback.",
+				"I added features like sort, search, detailed view of the feedback etc. for them to use offline once the they have exported the data."
+			]
+		},
+		{
+			"name": "Client: Leading coffee company, Germany ",
+			"position": "Client: Leading coffee company, Germany ",
+			"summary": "**Tech stack:** HTML5, CSS3, JS",
+			"description": "**Tech stack:** HTML5, CSS3, JS",
+			"startDate": "2015-08-01",
+			"endDate": "2015-10-30",
+			"highlights": [
+				"Got to master the frontend development of a UI heavy website.",
+				"This project was a very good follow up, to the backend development I did on my previous engagement, thus giving me an end to end perspective of Web development."
+			]
+		},
+		{
+			"name": "Client: Leading Company in Media publishing and entertainment Domain, India ",
+			"position": "Client: Leading Company in Media publishing and entertainment Domain, India ",
+			"summary": "**Tech stack:** Go lang, NodeJs",
+			"description": "**Tech stack:** Go lang, NodeJs",
+			"startDate": "2015-02-01",
+			"endDate": "2015-07-30",
+			"highlights": [
+				"I got had the taste of web development and go lang for the first time.",
+				"The project was about building a ticket booking engine and was co-engineered with the customer teams.",
+				"This effort was purely a back-end development project.",
+				"I had created a micro service architecture using which the client was able to scale their website when needed with no downtime and with ease."
+			]
+		},
+		{
+			"name": "Client: Leading company in Retail Domain, United Kingdom ",
+			"position": "Client: Leading company in Retail Domain, United Kingdom ",
+			"summary": "**Tech stack:** Java 8, Vue2, AWS and ansible",
+			"description": "**Tech stack:** Java 8, Vue2, AWS and ansible",
+			"startDate": "2014-08-05",
+			"endDate": "2015-01-31",
+			"highlights": [
+				"I was part of a team of 15 - 18 members working on iOS Native development of a mobile app",
+				"I scaled up to the tech demands of the project to learn objective C and also help with migrating iOS 6 to iOS 7 in a short period of time.",
+				"I played an active hand in building animation aspects of the app."
+			]
+		},
+		{
+			"name": "Client: ThoughtWorks - STEP, India",
+			"position": "Client: ThoughtWorks - STEP, India",
+			"summary": "**Tech stack:** Android native and hybrid",
+			"description": "**Tech stack:** Android native and hybrid",
+			"startDate": "2012-08-04",
+			"endDate": "2014-08-04",
+			"highlights": [
+				"I joined ThoughtWorks as an intern and started contributing to the project as well as learned from them.",
+				"As part of STEP program, I was thought the industry standards and good practice which are followed by ThoughtWorks.",
+				"In this span of 2 year i have contribute to 3 different project all based on mobile application (Android native and hybrid)."
+			]
+		}
+	],
+	"meta": { "theme": "orbit" }
+}
