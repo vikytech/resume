@@ -26,7 +26,7 @@
 				"url": "https://www.github.com/vikytech/"
 			}
 		]
-	},	
+	},
 	"volunteer": [],
 	"education": [
 		{
@@ -249,7 +249,12 @@
 			"description": "**Tech stack:** Java8, Ember",
 			"startDate": "2019-01-01",
 			"endDate": "2019-02-28",
-			"highlights": ["This was the first time I had experienced the Medical domain", "This was a POC build within 2 months", "I was responsible to build a real time sync system between a legacy system and our application", "A was one of the lead team member of the team, where I learnt the different dynamic in managing a team"]
+			"highlights": [
+				"This was the first time I had experienced the Medical domain",
+				"This was a POC build within 2 months",
+				"I was responsible to build a real time sync system between a legacy system and our application",
+				"I was one of the lead team member of the team, where I learnt the different dynamic in managing a team"
+			]
 		},
 		{
 			"name": "Client: Leading technology partner for OTT events, Italy",
